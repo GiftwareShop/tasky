@@ -10,7 +10,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tasky.git
+git clone https://github.com/GiftwareShop/tasky.git
 cd tasky
 
 2. Install dependencies:
